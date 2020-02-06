@@ -1,0 +1,11 @@
+C:\Users\choju\Desktop\CodingDojang\SaltWaterCalculator\obj\Debug\netcoreapp3.1\SaltWaterCalculator.csprojAssemblyReference.cache
+C:\Users\choju\Desktop\CodingDojang\SaltWaterCalculator\obj\Debug\netcoreapp3.1\SaltWaterCalculator.AssemblyInfoInputs.cache
+C:\Users\choju\Desktop\CodingDojang\SaltWaterCalculator\obj\Debug\netcoreapp3.1\SaltWaterCalculator.AssemblyInfo.cs
+C:\Users\choju\Desktop\CodingDojang\SaltWaterCalculator\bin\Debug\netcoreapp3.1\SaltWaterCalculator.exe
+C:\Users\choju\Desktop\CodingDojang\SaltWaterCalculator\bin\Debug\netcoreapp3.1\SaltWaterCalculator.deps.json
+C:\Users\choju\Desktop\CodingDojang\SaltWaterCalculator\bin\Debug\netcoreapp3.1\SaltWaterCalculator.runtimeconfig.json
+C:\Users\choju\Desktop\CodingDojang\SaltWaterCalculator\bin\Debug\netcoreapp3.1\SaltWaterCalculator.runtimeconfig.dev.json
+C:\Users\choju\Desktop\CodingDojang\SaltWaterCalculator\bin\Debug\netcoreapp3.1\SaltWaterCalculator.dll
+C:\Users\choju\Desktop\CodingDojang\SaltWaterCalculator\bin\Debug\netcoreapp3.1\SaltWaterCalculator.pdb
+C:\Users\choju\Desktop\CodingDojang\SaltWaterCalculator\obj\Debug\netcoreapp3.1\SaltWaterCalculator.dll
+C:\Users\choju\Desktop\CodingDojang\SaltWaterCalculator\obj\Debug\netcoreapp3.1\SaltWaterCalculator.pdb
