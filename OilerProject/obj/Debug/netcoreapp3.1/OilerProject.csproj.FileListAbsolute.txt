@@ -1,0 +1,11 @@
+C:\Users\choju\Desktop\CodingDojang\OilerProject\bin\Debug\netcoreapp3.1\OilerProject.exe
+C:\Users\choju\Desktop\CodingDojang\OilerProject\bin\Debug\netcoreapp3.1\OilerProject.deps.json
+C:\Users\choju\Desktop\CodingDojang\OilerProject\bin\Debug\netcoreapp3.1\OilerProject.runtimeconfig.json
+C:\Users\choju\Desktop\CodingDojang\OilerProject\bin\Debug\netcoreapp3.1\OilerProject.runtimeconfig.dev.json
+C:\Users\choju\Desktop\CodingDojang\OilerProject\bin\Debug\netcoreapp3.1\OilerProject.dll
+C:\Users\choju\Desktop\CodingDojang\OilerProject\bin\Debug\netcoreapp3.1\OilerProject.pdb
+C:\Users\choju\Desktop\CodingDojang\OilerProject\obj\Debug\netcoreapp3.1\OilerProject.csprojAssemblyReference.cache
+C:\Users\choju\Desktop\CodingDojang\OilerProject\obj\Debug\netcoreapp3.1\OilerProject.AssemblyInfoInputs.cache
+C:\Users\choju\Desktop\CodingDojang\OilerProject\obj\Debug\netcoreapp3.1\OilerProject.AssemblyInfo.cs
+C:\Users\choju\Desktop\CodingDojang\OilerProject\obj\Debug\netcoreapp3.1\OilerProject.dll
+C:\Users\choju\Desktop\CodingDojang\OilerProject\obj\Debug\netcoreapp3.1\OilerProject.pdb
